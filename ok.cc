@@ -17,7 +17,7 @@ int main() {
    cout << sum;
 
 //UAF example 2
-   N_class* n_object = new Nclass;
+   N_class* n_object = new N_class;
    n_object->int_var = 3;
    delete n_object;
 
