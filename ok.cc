@@ -4,7 +4,7 @@ using namespace std;
 class N_class {
 public:
       int int_var;
-}
+};
 
 int main() {
 
