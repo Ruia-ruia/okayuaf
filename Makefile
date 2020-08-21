@@ -1,1 +1,2 @@
-ok: ;g++ ./ok.c -o ./ok;
+ok:
+	g++ ./ok.cc -o ./ok
